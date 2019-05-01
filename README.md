@@ -18,11 +18,9 @@
 * `npm start`
 
 ### Components
-#### Connect to a sotre
-![modules](./tree2.png)
+![modules](./module.png)
 
-#### Create a new reducer
-![modules](./tree1.png)
+
 
 #### UML
 ![Data flow](./Data-flow.JPG)
